@@ -1,0 +1,11 @@
+{
+  "name": "easydateformatter",
+  "version": "1.0.0",
+  "description": "A simple date formatter for friendly output",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Debarghya Mondal",
+  "license": "ISC"
+}
