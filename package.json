@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Debarghya001/Easy-Date-Formatter"
+  },
   "author": "Debarghya Mondal",
   "license": "ISC"
 }
