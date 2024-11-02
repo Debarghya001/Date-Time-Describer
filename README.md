@@ -1,5 +1,5 @@
 
-# Easy Date Formatter 🌟
+# Date-Time-Describer 🌟
 
 A simple, human-readable date formatting library that transforms dates into friendly phrases like "2 hours ago" or "in 3 days."
 
@@ -17,7 +17,7 @@ A simple, human-readable date formatting library that transforms dates into frie
 Install ```EasyDateFormatter``` via npm:
 
 ```bash
- npm install easy-date-formatter
+ npm install date-time-describer
 
 ```
     
