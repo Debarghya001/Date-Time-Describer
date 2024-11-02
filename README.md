@@ -30,7 +30,7 @@ Install ```EasyDateFormatter``` via npm:
 Import and use ```EasyDateFormatter``` to transform dates into friendly formats.
 
 ```javascript
-const EasyDateFormatter = require('./src/index');
+const EasyDateFormatter = require('date-time-describer');
 
 
 //Example
@@ -41,8 +41,11 @@ const justNow = new Date();  // Current time
 console.log(EasyDateFormatter(fiveMinutesAgo));  // Output: "5 minutes ago"
 console.log(EasyDateFormatter(inTwoHours));      // Output: "in 2 hours"
 console.log(EasyDateFormatter(justNow));         // Output: "just now"
+``` 
+**Run**
+```bash
+node index.js
 ```
-
 
 ## API Reference 📚
 

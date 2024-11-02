@@ -1,6 +1,6 @@
 {
   "name": "date-time-describer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple date formatter for friendly output",
   "main": "src/index.js",
   "scripts": {
