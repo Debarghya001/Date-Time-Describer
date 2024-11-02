@@ -4,7 +4,7 @@
 A simple, human-readable date formatting library that transforms dates into friendly phrases like "2 hours ago" or "in 3 days."
 
 ###
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 [![npm version](https://badge.fury.io/js/easy-date-formatter.svg)](https://www.npmjs.com/package/date-time-describer)
 
 

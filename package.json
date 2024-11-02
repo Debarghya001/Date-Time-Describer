@@ -2,7 +2,7 @@
   "name": "date-time-describer",
   "version": "1.0.1",
   "description": "A simple date formatter for friendly output",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "node test.js"
   },
